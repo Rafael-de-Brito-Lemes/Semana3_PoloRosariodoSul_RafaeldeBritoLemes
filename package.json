@@ -1,0 +1,14 @@
+{
+  "name": "semana3_rosariodosul_rafaeldebritolemes",
+  "version": "1.0.0",
+  "description": "Atividade Semana 3 - Catalogo de Times",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0"
+  }
+}
